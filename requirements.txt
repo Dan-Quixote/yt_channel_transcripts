@@ -1,0 +1,6 @@
+streamlit
+youtube_transcript_api
+pytube
+scrapetube
+google-auth-oauthlib
+google-api-python-client
